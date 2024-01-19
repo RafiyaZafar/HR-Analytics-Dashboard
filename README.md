@@ -11,12 +11,12 @@ Executive Summary: Access a concise summary of key metrics and insights for quic
 
 
 Getting Started:
-Prerequisites
-Install Power BI Desktop to view and modify the dashboard.
-Installation
-Clone the repository: git clone https://github.com/RafiyaZafar/HR-Analytics-Dashboard.git
-Open the project in Power BI Desktop.
-Explore and modify the dashboard as needed.
+  Prerequisites
+  Install Power BI Desktop to view and modify the dashboard.
+  Installation
+  Clone the repository: git clone https://github.com/RafiyaZafar/HR-Analytics-Dashboard.git
+  Open the project in Power BI Desktop.
+  Explore and modify the dashboard as needed.
 
 Data Sources:
 The dashboard is powered by HR data collected from [(https://drive.google.com/drive/folders/18mQalCEyZypeV8TJeP3SME_R6qsCS2Og)].
