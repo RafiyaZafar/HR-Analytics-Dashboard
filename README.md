@@ -14,7 +14,7 @@ Getting Started:
 Prerequisites
 Install Power BI Desktop to view and modify the dashboard.
 Installation
-Clone the repository: git clone https://github.com/yourusername/hr-analytics-dashboard.git
+Clone the repository: git clone https://github.com/RafiyaZafar/HR-Analytics-Dashboard.git
 Open the project in Power BI Desktop.
 Explore and modify the dashboard as needed.
 
